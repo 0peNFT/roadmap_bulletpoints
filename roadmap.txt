@@ -1,0 +1,45 @@
+SITE WIDE FEATURES:
+- requirement to stake one ONFT before voting on competition, following, or staking on anyone.
+- recordkeeping of all eth addresses who have a valid account with 1 ONFT staked.
+- a list of artist accounts and ONFT staked on them
+- A follow list for each eth address to follow artists on the site 
+- mailing list signup
+- "search" searches database of established artists who hold an account with us
+
+EXPLORE PAGE FEATURES:
+- "newest": feed of images displayed for users based on upload time to the platform they were minted on
+- "trending": feed of images displayed for users should be a random sample of one of the top 30% of artist accounts in terms of change of ONFT staked since our last update. (ex +20 in 24 hours)
+- 'following': samples randomly from followed artists, if not following anyone gives a text blurb explaining they have yet to follow any artists.
+- clicking anywhere on the image or the text field next to it (name, bio, etc) should open the corresponding artists profile page 
+
+COMPETITION:
+- competition should refresh to a new competition every 24 hours at midnight EST, votes not shown openly on the site.  Add to artists win count if they win.
+- randomly sample one of the top 50% of artists in terms of ONFT staked in their name, and use the first image in their portfolio 
+as the image for the competition.  5 images per competition.
+- "votes" casts a user vote if theyre logged in to a valid ETH address (>1 ONFT)
+
+LEADERBOARD:
+- Rank = ascending order highest ONFT stake to lowest
+- Artist = artist name
+- Total Staked = ONFT staked
+- "Follow" adds to follow list
+- "Stake" pops up a window for increasing stake, or unstaking.
+
+ARTIST PROFILE:
+- profile pic
+- ONFT staked in their name
+	(as well as ONFT staked by the wallet thats observing the artist page)
+- bio
+- store 1 (rarible)  ~display all stores linked~
+- store 2 (superRare)
+- store 3 (makersPlace)
+- store 4 (knownOrigin)
+~ more stores integrated later~
+
+- Clicking on art on portfolio section takes you to the website its minted on so you can buy that piece of art.
+
+	PORTFOLIO:
+	-art name
+	-price
+	-supply (ex 1/1)
+	
